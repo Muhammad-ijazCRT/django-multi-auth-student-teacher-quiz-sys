@@ -41,3 +41,15 @@ The project will be available at **127.0.0.1:8000**.
 ## License
 
 The source code is released under the [MIT License](https://github.com/sibtc/django-multiple-user-types-example/blob/master/LICENSE).
+
+
+## Related sites
+
+#### Blog
+https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
+
+#### Youtube playlist
+https://www.youtube.com/playlist?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H
+
+
+
