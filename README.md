@@ -44,7 +44,6 @@ The source code is released under the [MIT License](https://github.com/sibtc/dja
 
 
 ## Related sites
-
 #### Blog
 https://simpleisbetterthancomplex.com/tutorial/2018/01/18/how-to-implement-multiple-user-types-with-django.html
 
